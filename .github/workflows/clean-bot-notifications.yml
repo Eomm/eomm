@@ -1,0 +1,19 @@
+name: notification-remover
+
+on:
+  workflow_dispatch:
+    inputs:
+      days-ago:
+        default: 5
+      pr-state:
+        default: 'all'
+
+jobs:
+  notification-remover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Eomm/notification-remover@v1
+        with:
+          github-user-token: ${{ secrets.USER_TOKEN }}
+          pr-state: ${{ github.event.inputs.pr-state }}
+          days-ago: ${{ github.event.inputs.days-ago }}
