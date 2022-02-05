@@ -5,8 +5,8 @@
 [![Fastify bedge](https://img.shields.io/badge/fastify-core-brightgreen?style=social&logo=fastify)][Fastify] 
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-+7k-brightgreen?style=social&logo=stackoverflow)](https://stackoverflow.com/users/3309466/manuel-spigolon?tab=profile)
 
-I'm Manuel and I work at [NearForm] as a Full Remote Software Developer from 🇮🇹 Italy.  
-I'm one of the Fastify maintainers since 2019. Contributing to Open Source Software teaches me something new every day. You should join this extraordinary world.
+I'm **Manuel** and I work at [NearForm] as a Full Remote **Software Developer** from 🇮🇹 Italy.  
+I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source Software** teaches me something new every day. You should join this extraordinary world.
 
 #### What are you looking for?
 
