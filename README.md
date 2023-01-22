@@ -1,6 +1,6 @@
 ### Hi, nice to meet you 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/manueomm?label=Follow)](https://twitter.com/intent/follow?screen_name=manueomm) 
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dmanueomm)](https://twitter.com/intent/follow?screen_name=manueomm)
 [![GitHub followers](https://img.shields.io/github/followers/eomm?label=Follow&style=social)](https://github.com/eomm?tab=followers) 
 [![Fastify bedge](https://img.shields.io/badge/fastify-core-brightgreen?style=social&logo=fastify)][Fastify] 
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-+10k-brightgreen?style=social&logo=stackoverflow)](https://stackoverflow.com/users/3309466/manuel-spigolon?tab=profile)
