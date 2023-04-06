@@ -28,11 +28,13 @@ In order of priorities:
 
 [Contact me][twitter] if your community wants to arrange a Node.js/Fastify talk! 📣
 
+- `2023/04/03` 🇬🇧 Decoding the Fastify plugin system [@TKYT][TKYT] [📺 Video](https://www.youtube.com/watch?v=BnnL7fAKqNU) | [📦 Repo](https://github.com/Eomm/TKYT)
 - `2022/06/16` 🇮🇹 Fastify has defeated Legacy-Code [@Commit University][cu] [📺 Video](https://www.youtube.com/watch?v=eE10vc3YLeU&t=829s) | [📸 Slides](https://docs.google.com/presentation/d/1IXkfxQ4SjdDPCShRGnetc5bBfDmbfz8S9L5xmUB3NLk/edit?usp=sharing)
 - `2021/10/23` 🇮🇹 Fastify in practice [@Come to Code][c2c] [📺 Video](https://www.youtube.com/watch?v=WBvzJeWgylU&t=3834s) | [📸 Slides](https://docs.google.com/presentation/d/1bpKWlrkdYaWQElMH3z9pkZtRgER7y9uCIpgpW6_rzM4/edit?usp=sharing)
 - `2019/11/04` 🇮🇹 Moduli fantastici e dove trovarli [@Programmers in Padua][pip] [📺 Video](https://www.youtube.com/watch?v=QmV4ca2-RWk) | [📸 Slides](https://docs.google.com/presentation/d/13RA-siVPORPNy5vX4ogFVM9aw8notpSKtDns60fpMgc/edit?usp=sharing)
 
 
+[TKYT]: https://www.youtube.com/@dominuskelvin
 [cu]: https://www.commitsoftware.it/commit-university/
 [c2c]: https://www.cometocode.it/
 [pip]: https://www.programmersinpadua.it/
