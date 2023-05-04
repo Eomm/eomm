@@ -12,17 +12,17 @@ I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source
 
 - ☕️ Do you want to work with me? [Apply here][apply]
 - 🔮 Would you like to contribute to Fastify? [Read how to start][how-to]
+- 🛟 Do you need help? Consider to [sponsor] me to rearrange my priorities
 - 💬 Ask me anything: [contact me][twitter]
 
 #### What I'm working on?
 
 In order of priorities:
 
-- 📘 Co-Author of the Fastify book. Still [working in progress](https://backend.cafe/about).
+- 📘 Co-Author of the [**Accelerating Server-Side Development with Fastify**](https://www.packtpub.com/product/accelerating-server-side-development-with-fastify/9781800563582) book!
 - 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
-- ⭐️ Creating my own routine
-- 📩 Writing useful blog posts on [backend-cafe]
-- 🍒 Developing a Fastify product around [`fastify-overview`](https://github.com/Eomm/fastify-overview)
+- ⭐️ Writing useful blog posts on [backend-cafe]
+- 🏆 Becoming a better [NearFormer][NearForm]
 
 ### Talks
 
@@ -44,3 +44,4 @@ In order of priorities:
 [apply]: https://grnh.se/18177b983us
 [how-to]: https://gist.github.com/Eomm/dc70b6196e99da7a8cf0bd6756b7a99c#file-fastify-oss-md
 [backend-cafe]: https://backend.cafe/
+[sponsor]: https://github.com/sponsors/Eomm
