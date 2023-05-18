@@ -28,6 +28,7 @@ In order of priorities:
 
 [Contact me][twitter] if your community wants to arrange a Node.js/Fastify talk! 📣
 
+- `2023/05/17` 🇮🇹 How open-source changed my life [@RomaJS][rjs] [📺 Video](https://www.youtube.com/watch?v=ss8-eMNhuc8&t=786s) | [📸 Slides](https://docs.google.com/presentation/d/133esSS4G6fkBTGMpqVhgOplknqEhg-GtqopnBh3KIqw/edit?usp=sharing)
 - `2023/05/10` 🇮🇹 How open-source changed my life [@BolognaJS][bjs] [📺 Video](https://www.youtube.com/watch?v=JDq438tumf0&t=1989s&ab_channel=BolognaJSCommunity) | [📸 Slides](https://docs.google.com/presentation/d/1Ya5U40Sdb5rfWtWkIsZokNAx0h06HH0AQVdy6GMZ8DE/edit?usp=sharing)
 - `2023/04/03` 🇬🇧 Decoding the Fastify plugin system [@TKYT][TKYT] [📺 Video](https://www.youtube.com/watch?v=BnnL7fAKqNU) | [📦 Repo](https://github.com/Eomm/TKYT)
 - `2022/06/16` 🇮🇹 Fastify has defeated Legacy-Code [@Commit University][cu] [📺 Video](https://www.youtube.com/watch?v=eE10vc3YLeU&t=829s) | [📸 Slides](https://docs.google.com/presentation/d/1IXkfxQ4SjdDPCShRGnetc5bBfDmbfz8S9L5xmUB3NLk/edit?usp=sharing)
@@ -35,6 +36,7 @@ In order of priorities:
 - `2019/11/04` 🇮🇹 Moduli fantastici e dove trovarli [@Programmers in Padua][pip] [📺 Video](https://www.youtube.com/watch?v=QmV4ca2-RWk) | [📸 Slides](https://docs.google.com/presentation/d/13RA-siVPORPNy5vX4ogFVM9aw8notpSKtDns60fpMgc/edit?usp=sharing)
 
 
+[rjs]: https://romajs.org/
 [bjs]: https://www.bolognajs.com/
 [TKYT]: https://www.youtube.com/@dominuskelvin
 [cu]: https://www.commitsoftware.it/commit-university/
