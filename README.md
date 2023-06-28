@@ -5,14 +5,14 @@
 [![Fastify bedge](https://img.shields.io/badge/fastify-core-brightgreen?style=social&logo=fastify)][Fastify] 
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-+10k-brightgreen?style=social&logo=stackoverflow)](https://stackoverflow.com/users/3309466/manuel-spigolon?tab=profile)
 
-I'm **Manuel** and I work at [NearForm] as a Full Remote **Software Developer** from 🇮🇹 Italy.  
+I'm **Manuel**, working at [NearForm] as a Full Remote **Senior Software Developer** from 🇮🇹 Italy.  
 I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source Software** teaches me something new every day. You should join this extraordinary world.
 
 #### What are you looking for?
 
 - ☕️ Do you want to work with me? [Apply here][apply]
 - 🔮 Would you like to contribute to Fastify? [Read how to start][how-to]
-- 🛟 Do you need help? Consider to [sponsor] me to rearrange my priorities
+- 🛟 Do you need help? Consider [sponsor] me to rearrange my priorities
 - 💬 Ask me anything: [contact me][twitter]
 
 #### What I'm working on?
@@ -23,6 +23,10 @@ In order of priorities:
 - 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
 - ⭐️ Writing useful blog posts on [backend-cafe]
 - 🏆 Becoming a better [NearFormer][NearForm]
+
+### Blog posts
+
+Check out all [my blog posts here](https://github.com/Eomm/fastify-discord-bot-demo/tree/HEAD#posts)!
 
 ### Talks
 
