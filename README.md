@@ -26,7 +26,7 @@ In order of priorities:
 
 ### Blog posts
 
-Check out all [my blog posts here](https://github.com/Eomm/fastify-discord-bot-demo/tree/HEAD#posts)!
+Check out all [my blog posts here](https://github.com/Eomm/blog-posts/tree/HEAD#posts)!
 
 ### Talks
 
