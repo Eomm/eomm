@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       days-ago:
-        default: 5
+        default: '5'
       pr-state:
         default: 'all'
 

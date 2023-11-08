@@ -1,0 +1,27 @@
+name: Notion Board
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  update-notion-board:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Personal Notion
+        uses: Eomm/notion-board@v0
+        with:
+          github-repository-query: user:Eomm is:public
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          notion-database-id: ${{ secrets.NOTION_DATABASE_ID }}
+          log-level: debug
+
+      - name: Update Fastify Notion
+        uses: Eomm/notion-board@v0
+        with:
+          github-repository-query: org:fastify is:public
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          notion-database-id: ${{ secrets.NOTION_DATABASE_ID_FASTIFY }}
+          log-level: debug
