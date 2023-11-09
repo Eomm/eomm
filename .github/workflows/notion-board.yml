@@ -6,9 +6,8 @@ on:
     - cron: "0 12 * * *"
 
 jobs:
-  update-notion-board:
+  update-notion-personal:
     runs-on: ubuntu-latest
-
     steps:
       - name: Update Personal Notion
         uses: Eomm/notion-board@v0
@@ -18,6 +17,10 @@ jobs:
           notion-database-id: ${{ secrets.NOTION_DATABASE_ID }}
           log-level: debug
 
+  update-notion-fastify:
+    runs-on: ubuntu-latest
+    needs: update-notion-personal
+    steps:
       - name: Update Fastify Notion
         uses: Eomm/notion-board@v0
         with:
