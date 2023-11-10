@@ -16,6 +16,7 @@ jobs:
           notion-token: ${{ secrets.NOTION_TOKEN }}
           notion-database-id: ${{ secrets.NOTION_DATABASE_ID }}
           log-level: debug
+          page-size: 30
 
   update-notion-fastify:
     runs-on: ubuntu-latest
@@ -28,3 +29,4 @@ jobs:
           notion-token: ${{ secrets.NOTION_TOKEN }}
           notion-database-id: ${{ secrets.NOTION_DATABASE_ID_FASTIFY }}
           log-level: debug
+          page-size: 40
