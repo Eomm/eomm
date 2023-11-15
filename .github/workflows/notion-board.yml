@@ -29,4 +29,4 @@ jobs:
           notion-token: ${{ secrets.NOTION_TOKEN }}
           notion-database-id: ${{ secrets.NOTION_DATABASE_ID_FASTIFY }}
           log-level: debug
-          page-size: 40
+          page-size: 20
