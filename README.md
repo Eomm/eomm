@@ -33,7 +33,7 @@ Check out all [my blog posts here](https://github.com/Eomm/blog-posts/tree/HEAD#
 [Contact me][twitter] if your community wants to arrange a Node.js/Fastify talk! 📣
 
 - `2023/10/05` 🇮🇹 (sub 🇬🇧) Interview [@GitBar][gitbar] [📺 Video](https://www.youtube.com/watch?v=hIfcavnm5QY)
-- `2023/09/23` 🇮🇹 Building Powerful Bots Rapidly with Platformatic [@Come to Code][c2c] [📺 Video TBD](https://www.youtube.com/) | [📸 Slides](https://docs.google.com/presentation/d/1AMNm-zmrdxa2lU4pHHKRMgKcEjJZNHjwvzEkLaRTfGY/edit?usp=sharing)
+- `2023/09/23` 🇮🇹 Building Powerful Bots Rapidly with Platformatic [@Come to Code][c2c] [📺 Video](https://www.youtube.com/watch?v=NJupAZqppxs) | [📸 Slides](https://docs.google.com/presentation/d/1AMNm-zmrdxa2lU4pHHKRMgKcEjJZNHjwvzEkLaRTfGY/edit?usp=sharing)
 - `2023/05/17` 🇮🇹 How open-source changed my life [@RomaJS][rjs] [📺 Video](https://www.youtube.com/watch?v=ss8-eMNhuc8&t=786s) | [📸 Slides](https://docs.google.com/presentation/d/133esSS4G6fkBTGMpqVhgOplknqEhg-GtqopnBh3KIqw/edit?usp=sharing)
 - `2023/05/10` 🇮🇹 How open-source changed my life [@BolognaJS][bjs] [📺 Video](https://www.youtube.com/watch?v=JDq438tumf0&t=1989s&ab_channel=BolognaJSCommunity) | [📸 Slides](https://docs.google.com/presentation/d/1Ya5U40Sdb5rfWtWkIsZokNAx0h06HH0AQVdy6GMZ8DE/edit?usp=sharing)
 - `2023/04/03` 🇬🇧 Decoding the Fastify plugin system [@TKYT][TKYT] [📺 Video](https://www.youtube.com/watch?v=BnnL7fAKqNU) | [📦 Repo](https://github.com/Eomm/TKYT)
