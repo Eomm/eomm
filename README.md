@@ -3,7 +3,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dmanueomm)](https://twitter.com/intent/follow?screen_name=manueomm)
 [![GitHub followers](https://img.shields.io/github/followers/eomm?label=Follow&style=social)](https://github.com/eomm?tab=followers) 
 [![Fastify bedge](https://img.shields.io/badge/fastify-core-brightgreen?style=social&logo=fastify)][Fastify] 
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-+11k-brightgreen?style=social&logo=stackoverflow)](https://stackoverflow.com/users/3309466/manuel-spigolon?tab=profile)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-+12k-brightgreen?style=social&logo=stackoverflow)](https://stackoverflow.com/users/3309466/manuel-spigolon?tab=profile)
 
 I'm **Manuel**, working at [NearForm] as a Full Remote **Senior Software Developer** from 🇮🇹 Italy.  
 I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source Software** teaches me something new every day. You should join this extraordinary world.
