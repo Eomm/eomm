@@ -29,10 +29,10 @@ After more than 5 years of commitment to Open Source, I need your help to find a
 The community is growing, but I can't keep up while working for free.
 
 I spent almost every weekend for two years writing the [Fastify book](https://backend.cafe/the-fastify-book-is-out).
-I am receiving numerous requests for a Fastify video course or new paid training courses.
+I receive numerous requests for a Fastify video course or new paid training courses.
 
 I am not satisfied with those formats because _they are not suitable for everyone_.
-While writing the Fastify book, I learned that creating high-quality content requires a significant amount of time.
+While writing the Fastify book, I learned that creating high-quality content requires significant time.
 For these reasons, to keep my focus on the community, consider sponsoring me.
 
 Transform your desire to contribute to Open Source into impact ✨ by sponsoring me 💸
