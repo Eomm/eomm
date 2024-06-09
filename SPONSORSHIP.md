@@ -1,6 +1,6 @@
 Hi! I'm Manuel 😄  
 I am a Senior Software Developer at [@NearForm](https://github.com/nearform) and work on awesome stuff for our customers.
-I contribute to Open Source Software (OSS) for 1 to 4 hours daily. _There is so much to do._
+I contribute to Open Source Software (OSS) but the time is never enough. _There is so much to do._
 
 It is my choice to do:
 
@@ -20,6 +20,7 @@ I'm the [3rd most active contributor](https://github.com/fastify/fastify/graphs/
 
 I help devs to learn something new by answering questions with detailed info, snippets and documentation.
 By helping someone, I hope they will start helping others as a give-back recognition in a positive loop.
+
 In the StackOverflow ranking I'm a [top user responder](https://stackoverflow.com/tags/fastify/topusers) and [the first user](https://data.stackexchange.com/stackoverflow/query/1454297/users-with-badges-for-skills?SkillName=fastify) getting the `fastify` badge too.
 
 ## How Sponsorship helps
@@ -31,16 +32,7 @@ I spent almost every weekend for two years writing the [Fastify book](https://ba
 I am receiving numerous requests for a Fastify video course or new paid training courses.
 
 I am not satisfied with those formats because _they are not suitable for everyone_.
-For this reason, I'm asking you, the community I serve, to sponsor me to **rewrite the official Fastify documentation from scratch**.
-
-I am willing to do the job that nobody wants to do:
-
-- Rewrite the documentation
-- Define a format that is easier to navigate and understand
-- Create a smooter introduction for new joiners
-- Enhance the advanced topics and expand the most common questions
-
 While writing the Fastify book, I learned that creating high-quality content requires a significant amount of time.
-For this reason, I need your sponsorship!
+For these reasons, to keep my focus on the community, consider sponsoring me.
 
 Transform your desire to contribute to Open Source into impact ✨ by sponsoring me 💸
