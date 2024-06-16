@@ -5,7 +5,7 @@
 [![Fastify bedge](https://img.shields.io/badge/fastify-core-brightgreen?style=social&logo=fastify)][Fastify] 
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-+12k-brightgreen?style=social&logo=stackoverflow)](https://stackoverflow.com/users/3309466/manuel-spigolon?tab=profile)
 
-I'm **Manuel**, working at [NearForm] as a Full Remote **Senior Software Developer** from 🇮🇹 Italy.  
+I'm **Manuel**, working at [Nearform] as a Full Remote **Senior Software Developer** from 🇮🇹 Italy.  
 I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source Software** teaches me something new every day. You should join this extraordinary world.
 
 #### What are you looking for?
@@ -22,7 +22,7 @@ In order of priorities:
 - 📘 Co-Author of the [**Accelerating Server-Side Development with Fastify**](https://www.packtpub.com/product/accelerating-server-side-development-with-fastify/9781800563582) book!
 - 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
 - ⭐️ Writing useful blog posts on [backend-cafe]
-- 🏆 Becoming a better [NearFormer][NearForm]
+- 🏆 Becoming a better [Nearformer][Nearform]
 
 ### Blog posts
 
@@ -49,7 +49,7 @@ Check out all [my blog posts here](https://github.com/Eomm/blog-posts/tree/HEAD#
 [cu]: https://www.commitsoftware.it/commit-university/
 [c2c]: https://www.cometocode.it/
 [pip]: https://www.programmersinpadua.it/
-[NearForm]: https://www.nearform.com/
+[Nearform]: https://www.nearform.com/
 [Fastify]: https://github.com/fastify/fastify
 [twitter]: https://twitter.com/ManuEomm
 [apply]: https://grnh.se/18177b983us
