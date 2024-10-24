@@ -32,6 +32,8 @@ Check out all [my blog posts here](https://github.com/Eomm/blog-posts/tree/HEAD#
 
 [Contact me][twitter] if your community wants to arrange a Node.js/Fastify talk! 📣
 
+- `2024/10/23` 🇬🇧 Fastify Exposed - Understanding Core Dynamics
+with Vanilla JavaScript [@Codemotion][codemotion] [🖼️ Photos](https://x.com/matteocollina/status/1849082019986260177) | [📸 Slides](https://docs.google.com/presentation/d/1_-kztqoRTz2MMuHUstnWv4tX-TD4SO173cz0kJwJ7SE/edit?usp=sharing)
 - `2023/10/05` 🇮🇹 (sub 🇬🇧) Interview [@GitBar][gitbar] [📺 Video](https://www.youtube.com/watch?v=hIfcavnm5QY)
 - `2023/09/23` 🇮🇹 Building Powerful Bots Rapidly with Platformatic [@Come to Code][c2c] [📺 Video](https://www.youtube.com/watch?v=NJupAZqppxs) | [📸 Slides](https://docs.google.com/presentation/d/1AMNm-zmrdxa2lU4pHHKRMgKcEjJZNHjwvzEkLaRTfGY/edit?usp=sharing)
 - `2023/05/17` 🇮🇹 How open-source changed my life [@RomaJS][rjs] [📺 Video](https://www.youtube.com/watch?v=ss8-eMNhuc8&t=786s) | [📸 Slides](https://docs.google.com/presentation/d/133esSS4G6fkBTGMpqVhgOplknqEhg-GtqopnBh3KIqw/edit?usp=sharing)
@@ -42,6 +44,7 @@ Check out all [my blog posts here](https://github.com/Eomm/blog-posts/tree/HEAD#
 - `2019/11/04` 🇮🇹 Moduli fantastici e dove trovarli [@Programmers in Padua][pip] [📺 Video](https://www.youtube.com/watch?v=QmV4ca2-RWk) | [📸 Slides](https://docs.google.com/presentation/d/13RA-siVPORPNy5vX4ogFVM9aw8notpSKtDns60fpMgc/edit?usp=sharing)
 
 
+[codemotion]: https://conferences.codemotion.com/milan2024/
 [gitbar]: https://www.gitbar.it/
 [rjs]: https://romajs.org/
 [bjs]: https://www.bolognajs.com/
