@@ -19,7 +19,9 @@ I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source
 
 In order of priorities:
 
-- 📘 Co-Author of the [**Accelerating Server-Side Development with Fastify**](https://www.packtpub.com/product/accelerating-server-side-development-with-fastify/9781800563582) book!
+- 📘 Buy my books!
+  - [**Accelerating Server-Side Development with Fastify**](https://packt.link/DvIDB)
+  - [**The Node.js Cookbook 5th edition**](https://a.co/d/a9Y436x)
 - 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
 - ⭐️ Writing useful blog posts on [backend-cafe]
 - 🏆 Becoming a better [Nearformer][Nearform]
