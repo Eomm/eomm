@@ -17,14 +17,15 @@ I'm one of the **Fastify** maintainers since 2019. Contributing to **Open Source
 
 #### What I'm working on?
 
-In order of priorities:
+In random order:
 
+- 📧 Fastify [Mini Free Email Course](https://fastifyminicourse.com/)
 - 📘 Buy my books!
   - [**Accelerating Server-Side Development with Fastify**](https://packt.link/DvIDB)
   - [**The Node.js Cookbook 5th edition**](https://a.co/d/a9Y436x)
-- 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
 - ⭐️ Writing useful blog posts on [backend-cafe]
 - 🏆 Becoming a better [Nearformer][Nearform]
+- 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
 
 ### Blog posts
 
@@ -56,7 +57,7 @@ with Vanilla JavaScript [@Codemotion][codemotion] [🖼️ Photos](https://x.com
 [pip]: https://www.programmersinpadua.it/
 [Nearform]: https://www.nearform.com/
 [Fastify]: https://github.com/fastify/fastify
-[twitter]: https://twitter.com/ManuEomm
+[twitter]: https://x.com/ManuEomm
 [apply]: https://grnh.se/18177b983us
 [how-to]: https://gist.github.com/Eomm/dc70b6196e99da7a8cf0bd6756b7a99c#file-fastify-oss-md
 [backend-cafe]: https://backend.cafe/
