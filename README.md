@@ -35,6 +35,7 @@ Check out all [my blog posts here](https://github.com/Eomm/blog-posts/tree/HEAD?
 
 [Contact me][twitter] if your community wants to arrange a Node.js/Fastify talk! 📣
 
+- `2025/04/24` 🇮🇹 Il Podcast Open Source - Spotlight ep.1 [🔊 Audio](https://open.spotify.com/episode/2C83K3igWKDaEqPNnBcrWM?si=faaa92bb8bb54589)
 - `2024/10/23` 🇬🇧 Fastify Exposed - Understanding Core Dynamics
 with Vanilla JavaScript [@Codemotion][codemotion] [🖼️ Photos](https://x.com/matteocollina/status/1849082019986260177) | [📸 Slides](https://docs.google.com/presentation/d/1_-kztqoRTz2MMuHUstnWv4tX-TD4SO173cz0kJwJ7SE/edit?usp=sharing)
 - `2023/10/05` 🇮🇹 (sub 🇬🇧) Interview [@GitBar][gitbar] [📺 Video](https://www.youtube.com/watch?v=hIfcavnm5QY)
