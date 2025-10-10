@@ -24,8 +24,7 @@ In random order:
   - [**Accelerating Server-Side Development with Fastify**](https://packt.link/DvIDB)
   - [**The Node.js Cookbook 5th edition**](https://a.co/d/a9Y436x)
 - ⭐️ Writing useful blog posts on [backend-cafe]
-- 🏆 Becoming a better [Nearformer][Nearform]
-- 🛠 Improving the Fastify ecosystem [sweating a bit](https://github.com/search?q=author:Eomm+org:fastify)
+- 🛠 Improving the Fastify ecosystem [monitoring everything][fastify-dashboard]
 
 ### Blog posts
 
@@ -63,3 +62,4 @@ with Vanilla JavaScript [@Codemotion][codemotion] [🖼️ Photos](https://x.com
 [how-to]: https://gist.github.com/Eomm/dc70b6196e99da7a8cf0bd6756b7a99c#file-fastify-oss-md
 [backend-cafe]: https://backend.cafe/
 [sponsor]: https://github.com/sponsors/Eomm
+[fastify-dashboard]: https://eomm.notion.site/7a064537ee794af698684df68e215b54?v=a660ff01ca5344769a5f2b1a1c4eeda4
