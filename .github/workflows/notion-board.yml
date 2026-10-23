@@ -10,6 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Personal Notion
+        id: update-personal
+        continue-on-error: true
+        uses: Eomm/notion-board@v0
+        with:
+          github-repository-query: user:Eomm is:public
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          notion-database-id: ${{ secrets.NOTION_DATABASE_ID }}
+          log-level: debug
+          page-size: 30
+      - name: Retry Personal Notion
+        if: steps.update-personal.outcome == 'failure'
         uses: Eomm/notion-board@v0
         with:
           github-repository-query: user:Eomm is:public
